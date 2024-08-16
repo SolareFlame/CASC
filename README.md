@@ -1,2 +1,2 @@
-# CASC
+# CASC 🖱️
 Cursor Acceleration Speed Controler
