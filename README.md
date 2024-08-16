@@ -8,12 +8,12 @@ CASC is a small desktop application located in the systray zone, whose main func
 By deactivating this option, the movement of your cursor will always be equal to that which you apply to your mouse. So **your aim will be much better and constant**.
 Nonetheless, mouse acceleration is a comfort parameter, which is very useful for office work. That's why this application will deactivate the option only when necessary. 
 
-<hr/>
+
 # How to use it?
 > [!WARNING]
 > Soon
 
-<hr/>
+
 # How to install
 ```
 pip install ...
