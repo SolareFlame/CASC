@@ -1,0 +1,6 @@
+[
+    {"app_name": "Valorant", "process_name": "VALORANT-Win64-Shipping.exe", "mouse_threshold": 0},
+    {"app_name": "Fortnite", "process_name": "FortniteClient-Win64-Shipping.exe", "mouse_threshold": 0},
+    {"app_name": "Apex Legends", "process_name": "r5apex.exe", "mouse_threshold": 0},
+    {"app_name": "Google Chrome", "process_name": "chrome.exe", "mouse_threshold": 0}
+]
