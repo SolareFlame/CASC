@@ -1,2 +1,2 @@
-# CASC 🖱️
-Cursor Acceleration Speed Controler
+# Cursor Acceleration Speed Controler 🖱️
+<hr/>
